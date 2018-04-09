@@ -54,7 +54,7 @@ type : GET
 arguments : filter avec formula_id
 exmeple : https://api.santiane.fr/etna/mobilecamp/formula_document?filter={"formula_id":3852}
 
-
+l
 PERSON
 rôle : Permet de récupérer les information de personne
 url : https://api.santiane.fr/etna/mobilecamp/person
