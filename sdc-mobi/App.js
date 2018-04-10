@@ -52,7 +52,7 @@ export default class Connexion extends Component {
 
   render() {
     return (
-      <ScrollView style={{}}>
+      <ScrollView keyboardDismissMode={'interactive'} scrollsToTop={false}>
         <View style={[styles.container, styles.top]}>
           <Image style={{width: 100, height: 100, alignSelf: 'center'}} source={require('./images/logoSantiane.png')}/>
           <Text style={{alignSelf: 'center', backgroundColor: "#e28936", color: "#fff", fontSize: 33, textAlign: 'center', width: 200, fontWeight: 'bold', marginTop: 0}}>MonSantiane</Text>
@@ -67,12 +67,13 @@ export default class Connexion extends Component {
   }
 }
 
-const styles = StyleSheet.create({
+export const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
     alignSelf: 'center',
     flexDirection: 'column',
+    paddingBottom: 180,
   },
   top: {
     marginTop: 30,
