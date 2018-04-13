@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { StyleSheet, Text, View, TextInput, Button, Alert, Image, ScrollView } from 'react-native';
+import { StyleSheet, Text, View, TextInput, Button, Alert, Image, ScrollView, AsyncStorage } from 'react-native';
 import t from 'tcomb-form-native';
 import createReactClass from 'create-react-class';
 
@@ -15,9 +15,9 @@ const options = {
 
 };
 
-function login(email, password) {
+const currentUser = {
   
-}
+};
 
 export default class Home extends Component {
   render() {
@@ -30,31 +30,66 @@ export default class Home extends Component {
 const Connexion = createReactClass({
 
   getInitialState() {
-    return { value: null };
+    return { };
   },
 
   onChange(value) {
     this.setState({value}, function () {
-        
+
+      });
+  },
+
+  clearCurrentUser: function () {
+    AsyncStorage.multiRemove(["email", "password", "remember"]).then(() => {
+        console.log("Utilisateur supprimé.");
       });
   },
 
   onPress: function () {
     var value = this._form.getValue();
     if (value) {
-      console.log(value.email + '' + value.password);
+      if(!value.remember && currentUser.email) {
+        this.clearCurrentUser();
+      }
+      if(value.remember && currentUser.email) {
+        AsyncStorage.multiMerge([["email", value.email], ["password", value.password], ["remember", value.remember]]).then(() => {
+          console.log("Utilisateur mis à jour.")
+          });
+      }
       fetch('https://api.santiane.fr/etna/mobilecamp/login?filter={"login":"'+ value.email +'","password":"'+ value.password +'", "auto_refresh":1}').then(function(response) {
         if(response.ok) {
-          console.log(response);
+          if(value.remember && !currentUser.email) {
+            AsyncStorage.multiSet([["email", value.email], ["password", value.password], ["remember", value.remember]]).then(() => {
+                console.log("Utilisateur créé.")
+              });
+          } else {
+            console.log("Connexion réussie.");
+          }
         } else {
-          console.log('Mauvais identifiants');
+          console.log('Mauvais identifiants.');
         }
       })
       .catch(function(error) {
         console.log('Il y a eu un problème avec l\'opération fetch: ' + error.message);
       });
-      console.log(value);
     }
+  },
+
+  componentDidMount: function() {
+    AsyncStorage.multiGet(["email", "password", "remember"]).then((response) => {
+      this.setState({
+        value: {
+          email: response[0][1],
+          password: response[1][1],
+          remember: response[2][1]
+        }
+      });
+      currentUser = {
+        email: response[0][1],
+        password: response[1][1],
+        remember: response[2][1]
+      };
+    }).done();
   },
 
   render: function() {
@@ -66,7 +101,7 @@ const Connexion = createReactClass({
             <View style={styles.connexion}>
               <Text style={{alignSelf: 'center', marginTop: 6, marginBottom: 30, fontSize: 16, fontWeight: 'bold', color: '#949494'}}>Connexion à mon espace adhérent</Text>
               <Form type={formUser} ref={c => this._form = c} options={options} onChange={this.onChange} value={this.state.value}/>
-              <Button onPress={this.onPress} title="CONNEXION" color="blue"/>
+              <Button onPress={this.onPress} title="CONNEXION" color="#e28936"/>
             </View>
         </View>
       </ScrollView>
