@@ -1,0 +1,2 @@
+export const SET_SEARCHED_USERS = 'SET_SEARCHED_USERS'
+export const ADD_USER = 'ADD_USER';
