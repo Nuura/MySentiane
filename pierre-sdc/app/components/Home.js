@@ -4,6 +4,10 @@ import t from 'tcomb-form-native';
 import user from '../actions/users'
 import {StackNavigator} from "react-navigation";
 import Login from './Login';
+import FAQ from './FAQ'
+import FAQActiveSpace from "./FAQActiveSpace";
+import FAQConnectSpace from "./FAQConnectSpace";
+import FAQActivationProblems from "./FAQActivationProblems";
 
 const {
     StyleSheet,
@@ -37,7 +41,7 @@ class Home extends Component {
                 <TouchableOpacity style={styles.customButton} onPress={ () => {this.props.navigation.navigate('Login')} }>
                     <Text style={{ color: 'white'}}>Se connecter</Text>
                 </TouchableOpacity>
-                <TouchableOpacity style={styles.customButton}>
+                <TouchableOpacity style={styles.customButton} onPress={ () => {this.props.navigation.navigate('FAQ')}}>
                     <Text style={{ color: 'white'}}>FAQ</Text>
                 </TouchableOpacity>
                {/* <TouchableHighlight onPress={ () => {this.tryToLogin()} }>
@@ -81,5 +85,17 @@ export default StackNavigator({
     },
     Login: {
         screen: Login,
+    },
+     FAQ: {
+        screen: FAQ
+    },
+    FAQActiveSpace: {
+        screen: FAQActiveSpace
+    },
+    FAQConnectSpace: {
+        screen: FAQConnectSpace
+    },
+    FAQActivationProblems: {
+        screen: FAQActivationProblems
     }
 });
