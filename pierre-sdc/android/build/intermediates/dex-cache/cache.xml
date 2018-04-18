@@ -3,6 +3,150 @@
 
     <item
         is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d767aa8c62d8cfe7f0c3abe9fd18db7114ed9bd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b4894ea67928b8906bfb7c72395af819f4762015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_7d3b7e0349234ee9888577d1daa7f21a3513a46f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_73954002649282eed4e6d1c4533a9c1a7efb1e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_458e4f603d2449a3adaafe5e9f124bbc19669655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_55cb334d52f149f3cf51c9e811cfb4c87876417f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_9657da105a4420064c8be757e2862f9a4d5c9f7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_7decc12083233b7fe2d4e0a87eb5ba1b73bdde0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_1c67aa96674b70cbf0cd8311045c8be6055dfbb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8bad005bd8c34a3289b783d7042eaa4a2554b263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_662208d68631bc5a9ca3996646cc0d9f631e96d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_cc302189b547aab8bbc44bf8215a044fe45467df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e9d3a3d3a781fe8fe55b743c397ae7f097c21b0">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.2_cede4f4cc6be027f6daacb4a7540f21e80604128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a25d47f79ce7b8d577c9ac5fe4ca486b0824352d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_46e9800dd385c4efac431f6cf6088020778dd7ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_3a96980c4302eecaab7fe30de3bc0c01df831e82.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/nuura/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
@@ -30,12 +174,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/libs/infer-annotations-4.0.jar"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b4894ea67928b8906bfb7c72395af819f4762015.jar" />
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2ccf37f8a02421e87a144d49ccb314c4de08b523.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,21 +192,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_9d991efd076186ea097a3702208a4ec678b2976e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_73954002649282eed4e6d1c4533a9c1a7efb1e5f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nuura/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_55cb334d52f149f3cf51c9e811cfb4c87876417f.jar" />
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a6920bec32815f2ebfffab682060a8e2cedd88d6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,6 +237,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e9d3a3d3a781fe8fe55b743c397ae7f097c21b0">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.2_edf2d6500b414d51b7ba0ee2e74cad332fa6dd32.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/nuura/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -120,30 +273,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nuura/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8bad005bd8c34a3289b783d7042eaa4a2554b263.jar" />
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_7c32d6a8e0fb36f362c4a66fd36be726836ffb32.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_cc302189b547aab8bbc44bf8215a044fe45467df.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="0e9d3a3d3a781fe8fe55b743c397ae7f097c21b0">
-        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.2_cede4f4cc6be027f6daacb4a7540f21e80604128.jar" />
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Git/CAMP-MOBILE/pierre-sdc/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_197c5e1b99995a2f754fb11be0ec4eaef9d3b877.jar" />
     </item>
     <item
         is-multidex="false"
@@ -162,33 +306,6 @@
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
         <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b2d6dcb617fd5dab6224eb7db75154837499b1c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_46e9800dd385c4efac431f6cf6088020778dd7ae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nuura/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a25d47f79ce7b8d577c9ac5fe4ca486b0824352d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/nuura/Desktop/Dayum/ETNA/Prep&apos;ETNA2/Svn/CAMP-MOBILE/MonSantiane/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_3a96980c4302eecaab7fe30de3bc0c01df831e82.jar" />
     </item>
 
 </items>
